@@ -4,9 +4,9 @@ I set out to employ different techniques and methodologies to build a predictive
 
 # The Jupiter notebook is composed of the following:
 
-<p><b>DATA CLEANING</b></p>
+1)<p><b>DATA CLEANING</b></p>
 
-**DATA EXPLORATION**
+2)**DATA EXPLORATION**
 
 HYPOTHESIS: MOST OSCAR WINNERS ARE WHITE.
 
@@ -14,7 +14,7 @@ HYPOTHESIS: MOST OSCAR WINNERS ARE FROM USA.
 
 HYPOTHESIS: BEST DIRECTORS TEND TO BE OLDER THAN BEST ACTORS OR ACTRESSES	
 
-**MODEL BUILDING**	-
+3)**MODEL BUILDING**	-
 
   LOGISTIC REGRESSION	
   
