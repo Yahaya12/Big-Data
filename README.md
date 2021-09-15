@@ -1,6 +1,6 @@
 # Big-Data
 
-I set out to employ different techniques and methodologies to build a predictive model that would be able to predict which person based on their features such as age, race, origin where able to win the different types of oscar awards, using oscars demographics csv file. 
+I set out to employ different techniques and methodologies to build a predictive model that would be able to predict which person based on their features such as age, race, origin were able to win the different types of oscar awards, using oscars demographics csv file. 
 
 # The Jupiter notebook is composed of the following:
 
