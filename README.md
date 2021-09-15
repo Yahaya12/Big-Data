@@ -6,7 +6,7 @@ I set out to employ different techniques and methodologies to build a predictive
 
 DATA CLEANING	
 
-DATA EXPLORATION - 
+<p><b>DATA EXPLORATION</b></p> - 
 
 HYPOTHESIS: MOST OSCAR WINNERS ARE WHITE.
 
