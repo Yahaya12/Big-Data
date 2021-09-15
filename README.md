@@ -4,6 +4,7 @@ I set out to employ different techniques and methodologies to build a predictive
 
 # The Jupiter notebook is composed of the following:
 
+
 1)<p><b>DATA CLEANING</b></p>
 
 2)**DATA EXPLORATION**
